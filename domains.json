@@ -27,5 +27,12 @@
     "systemURL": "https://www.spaceship.com/",
     "registrationDate": "2024-12-01",
     "expirationDate": "2029-12-01"
+  },
+  {
+    "domain": "glimmer.zone.id",
+    "system": "zone.id",
+    "systemURL": "https://my.zone.id",
+    "registrationDate": "2025-03-12",
+    "expirationDate": "2026-03-12"
   }
 ]
